@@ -1,8 +1,8 @@
 ## Bem-vindo(a) ao meu perfil! 😁
 
 <div>
- <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=MarcoTSF&show_icons=true&theme=tokyonight"/>
- <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoTSF&layout=compact&langs_count=6&theme=tokyonight"/>
+ <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=MarcoTSF&show_icons=true&theme=tokyonight&count_private=true"/>
+ <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoTSF&layout=compact&langs_count=6&theme=tokyonight&count_private=true"/>
 </div>
 
 <div style="display: inline_block"><br>
