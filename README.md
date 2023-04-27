@@ -1,4 +1,7 @@
-## Bem-vindo(a) ao meu perfil! 😁
+## Bem-vindo(a) ao meu perfil! 😎
+
+Me chamo Marco e tenho 20 anos. Sou um Desenvolvedor Front-End Júnior, estudante de Engenharia da Computação no Centro Universitário UNA - Campus Betim. Atualmente trabalho na Stellantis, desenvolvendo aplicações web para o time de BIW (Body In White).<br><br>
+Gosto de criar, recriar e melhorar projetos que encontro pela internet e estou sempre participando de eventos que possam me ajudar a melhoras minhas habilidades de programação. Dê uma olhada em meus repositórios, se gostar de algo deixe uma estrela para me ajudar! 😁
 
 ### Estatísticas do GitHub:
 <div>
