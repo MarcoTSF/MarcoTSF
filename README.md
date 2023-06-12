@@ -5,8 +5,8 @@ Gosto de criar, recriar e melhorar projetos que encontro pela internet e estou s
 
 ### Estatísticas do GitHub:
 <div>
- <img height="200em" width="400em" src="https://github-readme-stats.vercel.app/api?username=MarcoTSF&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"/>
- <img height="200em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoTSF&layout=compact&count_private=true&theme=tokyonight&hide_border=true"/>
+ <img height="200em" width="400em" src="https://github-readme-stats.vercel.app/api?username=MarcoTSF&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true"/>
+ <img height="200em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoTSF&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
 ### Linguagens e Tecnologias:
