@@ -1,16 +1,16 @@
 ## Bem-vindo(a) ao meu perfil! 😎
 
-Me chamo Marco e tenho 20 anos. Sou um Desenvolvedor Front-End Júnior, estudante de Engenharia da Computação no Centro Universitário UNA - Campus Betim. Atualmente trabalho na Stellantis, desenvolvendo aplicações web para o time de BIW (Body In White).<br><br>
+Me chamo Marco e tenho 20 anos. Sou um Desenvolvedor Front-End Júnior e Projetista Mecânico, estudante de Engenharia da Computação no Centro Universitário UNA - Campus Betim. Atualmente trabalho na PTC Group como Desenhista, desenvolvendo aplicações web para o time de BIW (Body In White) da Stellantis e participando da gestão do produto (Underbody).<br><br>
 Gosto de criar, recriar e melhorar projetos que encontro pela internet e estou sempre participando de eventos que possam me ajudar a melhorar minhas habilidades na programação. Dê uma olhada em meus repositórios, se gostar de algo deixe uma estrela para me ajudar! 😁
 
 ### Estatísticas do GitHub:
-<div>
+<div display="none">
  <img height="200em" width="400em" src="https://github-readme-stats.vercel.app/api?username=MarcoTSF&show_icons=true&theme=tokyonight"/>
  <img height="200em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoTSF&layout=compact&theme=tokyonight"/>
 </div>
 
 ### Linguagens e Tecnologias:
-<div style="display: inline_block">
+<div>
  <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
  <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
  <img align="center" alt="Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
