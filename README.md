@@ -7,8 +7,8 @@ Gosto de criar, recriar e melhorar projetos que encontro pela internet e estou s
 
 <div align="center">
  <h1>Estatísticas do GitHub</h1>
- <img height="200em" width="400em" src="https://github-readme-stats.vercel.app/api?username=MarcoTSF&show_icons=true&line_height=33&theme=tokyonight&hide_border=true"/>
- <img height="200em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoTSF&layout=compact&theme=tokyonight&hide_border=true"/>
+ <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=MarcoTSF&show_icons=true&line_height=28&theme=tokyonight&hide_border=true"/>
+ <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoTSF&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
 <br>
