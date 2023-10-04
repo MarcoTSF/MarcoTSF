@@ -7,7 +7,7 @@ Gosto de criar, recriar e melhorar projetos que encontro pela internet e estou s
 
 <h1 align="center">Estatísticas do GitHub</h1>
 
-<img  align="right" height="500em" width="380em" src="Profile-Image.png"/>
+<img  align="right" height="490em" width="400em" src="Profile-Image.png"/>
 
 <div align="left">
  <div>
