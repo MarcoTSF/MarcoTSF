@@ -5,10 +5,17 @@ Gosto de criar, recriar e melhorar projetos que encontro pela internet e estou s
 
 <br>
 
-<div align="center">
- <h1>Estatísticas do GitHub</h1>
- <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=MarcoTSF&show_icons=true&line_height=28&theme=tokyonight&hide_border=true"/>
- <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoTSF&layout=compact&theme=tokyonight&hide_border=true"/>
+<h1 align="center">Estatísticas do GitHub</h1>
+
+<img  align="right" height="500em" src="Profile-Image.png"/>
+
+<div align="left">
+ <div>
+  <img height="200em" width="400em" src="https://github-readme-stats.vercel.app/api?username=MarcoTSF&show_icons=true&line_height=28&theme=tokyonight&hide_border=true"/>
+ </div>
+ <div>
+  <img height="290em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoTSF&langs_count=10&layout=compact&theme=tokyonight&hide_border=true"/>
+ </div>
 </div>
 
 <br>
@@ -24,11 +31,29 @@ Gosto de criar, recriar e melhorar projetos que encontro pela internet e estou s
 </div>
 
 <br>
+
+<div align="center">
+ <img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+ <img align="center" alt="Next.Js" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+ <img align="center" alt="Node.Js" src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+ <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+ <img align="center" alt="Tailwind-CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+ <img align="center" alt="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+</div>
+
+<br>
+
+<div align="center">
+ <img align="center" alt="Vue.Js" src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
+ <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+ <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+ <img align="center" alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
+</div>
+
+<br>
  
 <div align="center">
- <h1>Sociais</h1>
- <a href="https://instagram.com/marcotsf_13" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/neBYdgN" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
- <a href="mailto:mtsf.salvador@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <h1>Contato</h1>
+ <a href="mailto:mtsf.salvador@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/marco-tulio-salvador-filho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
