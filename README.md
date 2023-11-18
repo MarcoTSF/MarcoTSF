@@ -55,5 +55,5 @@ Gosto de criar, recriar e melhorar projetos que encontro pela internet e estou s
 <div align="center">
  <h1>Contato</h1>
  <a href="mailto:mtsf.salvador@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://www.linkedin.com/in/marco-tulio-salvador-filho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/marcotsf/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
