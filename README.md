@@ -1,8 +1,7 @@
 <h1 align="center">Bem-vindo(a) ao meu perfil! 🚀</h1>
 
 Olá, sou o Marco! Sou Desenvolvedor Front-End e estudante de Engenharia da Computação no Centro Universitário UNA - Campus Betim. Estou estagiando na **Denso do Brasil** atuando em novos projetos e participando da gestão do produto.<br><br>
-Gosto de criar, recriar e melhorar projetos que encontro pela internet e estou sempre participando de eventos que possam me ajudar a melhorar minhas habilidades na programação. Dê uma olhada em meus repositórios, se gostar de algo deixe uma estrela para me ajudar!
-
+Sou um desenvolvedor entusiasta, sempre buscando transformar ideias em código. Meus repositórios são um reflexo dessa jornada, onde aplico e aprimoro os conhecimentos que adquiro em meus estudos e nos eventos da comunidade tech. Explore os projetos abaixo e, se gostar de algo, sua estrela ⭐ será um grande incentivo!
 <br>
 
 <h1 align="center">Estatísticas do GitHub</h1>
