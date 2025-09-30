@@ -6,14 +6,11 @@ Sou um desenvolvedor entusiasta, sempre buscando transformar ideias em código. 
 
 <h1 align="center">Estatísticas do GitHub</h1>
 
-<img  align="right" height="495em" width="400em" src="Profile-Image.png"/>
+<div align="center">
+ <div>
+  <img height="290em" width="380em" src="https://github-readme-stats.vercel.app/api?username=MarcoTSF&show_icons=true&line_height=35&theme=tokyonight&hide_border=true"/>
 
-<div align="left">
- <div>
-  <img height="200em" width="380em" src="https://github-readme-stats.vercel.app/api?username=MarcoTSF&show_icons=true&line_height=28&theme=tokyonight&hide_border=true"/>
- </div>
- <div>
-  <img height="290em" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoTSF&langs_count=10&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="290em" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoTSF&langs_count=6&layout=compact&theme=tokyonight&hide_border=true"/>
  </div>
 </div>
 
