@@ -8,9 +8,9 @@ Sou um desenvolvedor entusiasta, sempre buscando transformar ideias em código. 
 
 <div align="center">
  <div>
-  <img height="290em" width="380em" src="https://github-readme-stats.vercel.app/api?username=MarcoTSF&show_icons=true&line_height=35&theme=tokyonight&hide_border=true"/>
+  <img height="300em" width="400em" src="https://github-readme-stats.vercel.app/api?username=MarcoTSF&show_icons=true&line_height=35&theme=tokyonight&hide_border=true"/>
 
-  <img height="290em" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoTSF&langs_count=6&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="300em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoTSF&langs_count=6&layout=compact&theme=tokyonight&hide_border=true"/>
  </div>
 </div>
 
