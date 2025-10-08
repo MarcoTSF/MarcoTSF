@@ -51,7 +51,7 @@ Sou um desenvolvedor entusiasta, sempre buscando transformar ideias em código. 
 <div align="center">
   <h1>Projetos em Destaque</h1>
 
-  <table>
+  <table align="center"  height="400px">
     <tr>
       <td width="50%" valign="top">
         <h3>🕷️ Spider-Man Multiversos</h3>
@@ -89,7 +89,7 @@ Sou um desenvolvedor entusiasta, sempre buscando transformar ideias em código. 
       </td>
       <td width="50%" valign="top">
         <h3>🌃 Cyberfiction</h3>
-        <p>Um projeto com temática cyberpunk, explorando design futurista e efeitos visuais para criar uma landing page envolvente com o uso da biblioteca Locomotive Scroll. Demonstração de criatividade e atenção aos detalhes.</p>
+        <p>Um projeto com temática cyberpunk, explorando design futurista e efeitos visuais para criar uma landing page envolvente com o uso da biblioteca Locomotive Scroll. Demonstração de criatividade e atenção aos detalhes.</p> 
         <strong>Tecnologias:</strong><br><br>
         <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
         <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -97,6 +97,29 @@ Sou um desenvolvedor entusiasta, sempre buscando transformar ideias em código. 
         <br><br>
         <a href="https://github.com/MarcoTSF/CyberFiction" target="_blank"><img src="https://img.shields.io/badge/Código-100000?style=for-the-badge&logo=github&logoColor=white"></a>
         <a href="https://marcotsf.github.io/CyberFiction/" target="_blank"><img src="https://img.shields.io/badge/Ver%20Projeto-4A90E2?style=for-the-badge&logo=rocket&logoColor=white"></a><br><br>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+       <h3>🤖 AURA AI</h3>
+        <p>AURA é uma assistente virtual por voz desenvolvida em Python, projetada para automatizar tarefas do dia a dia, controlar mídias e realizar buscas, tudo através de comandos de voz.</p> 
+        <strong>Tecnologias:</strong><br><br>
+        <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+        <img alt="OLLAMA" src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white">
+        <img alt="Spotify API" src="https://img.shields.io/badge/Spotify_API-1DB954?style=for-the-badge&logo=spotify&logoColor=white">
+        <br><br>
+        <a href="https://github.com/MarcoTSF/CyberFiction" target="_blank"><img src="https://img.shields.io/badge/Código-100000?style=for-the-badge&logo=github&logoColor=white"></a><br><br>
+      </td>
+      <td width="50%" valign="top">
+       <h3>🐦‍🔥 Pokédex</h3>
+        <p>Um mini-projeto de Pokédex criado com HTML, CSS e JavaScript puros, utilizando a PokeAPI para consultar informações sobre os Pokémons.</p> 
+        <strong>Tecnologias:</strong><br><br>
+        <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+        <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+        <img alt="Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+        <br><br>
+        <a href="https://github.com/MarcoTSF/pokedex-v1" target="_blank"><img src="https://img.shields.io/badge/Código-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+        <a href="https://marcotsf.github.io/pokedex-v1/" target="_blank"><img src="https://img.shields.io/badge/Ver%20Projeto-4A90E2?style=for-the-badge&logo=rocket&logoColor=white"></a><br><br>
       </td>
     </tr>
   </table>
