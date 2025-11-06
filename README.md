@@ -72,7 +72,8 @@ Sou um desenvolvedor entusiasta, sempre buscando transformar ideias em código. 
         <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
         <img alt="Vite" src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E">
         <br><br>
-        <a href="https://github.com/MarcoTSF/COBERLOG" target="_blank"><img src="https://img.shields.io/badge/Código-100000?style=for-the-badge&logo=github&logoColor=white"></a><br><br>
+        <a href="https://github.com/MarcoTSF/COBERLOG" target="_blank"><img src="https://img.shields.io/badge/Código-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+        <a href="https://coberlog.com.br" target="_blank"><img src="https://img.shields.io/badge/Ver%20Projeto-4A90E2?style=for-the-badge&logo=rocket&logoColor=white"></a><br><br>
       </td>
     </tr>
     <tr>
@@ -108,7 +109,8 @@ Sou um desenvolvedor entusiasta, sempre buscando transformar ideias em código. 
         <img alt="OLLAMA" src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white">
         <img alt="Spotify API" src="https://img.shields.io/badge/Spotify_API-1DB954?style=for-the-badge&logo=spotify&logoColor=white">
         <br><br>
-        <a href="https://github.com/MarcoTSF/CyberFiction" target="_blank"><img src="https://img.shields.io/badge/Código-100000?style=for-the-badge&logo=github&logoColor=white"></a><br><br>
+        <a href="https://github.com/MarcoTSF/AURA-AI" target="_blank"><img src="https://img.shields.io/badge/Código-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+        <a href="https://github.com/MarcoTSF/AURA-AI" target="_blank"><img src="https://img.shields.io/badge/Prévia%20em%20Desenvolvimento-4A90E2?style=for-the-badge&logo=rocket&logoColor=white"></a><br><br>
       </td>
       <td width="50%" valign="top">
        <h3>🐦‍🔥 Pokédex</h3>
@@ -119,7 +121,7 @@ Sou um desenvolvedor entusiasta, sempre buscando transformar ideias em código. 
         <img alt="Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
         <br><br>
         <a href="https://github.com/MarcoTSF/pokedex-v1" target="_blank"><img src="https://img.shields.io/badge/Código-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-        <a href="https://marcotsf.github.io/pokedex-v1/" target="_blank"><img src="https://img.shields.io/badge/Ver%20Projeto-4A90E2?style=for-the-badge&logo=rocket&logoColor=white"></a><br><br>
+        <a href="https://marcotsf.github.io/pokedex-v1/" target="_blank"><img src="https://img.shields.io/badge/Prévia%20em%20Desenvolvimento-4A90E2?style=for-the-badge&logo=rocket&logoColor=white"></a><br><br>
       </td>
     </tr>
   </table>
