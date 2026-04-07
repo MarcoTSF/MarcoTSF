@@ -1,10 +1,17 @@
 <h1 align="center">Bem-vindo(a) ao meu perfil! 🚀</h1>
 
-Olá, sou o Marco! Sou Desenvolvedor Front-End e estudante de Engenharia da Computação no Centro Universitário UNA - Campus Betim. Estou estagiando na **Denso do Brasil** atuando em novos projetos e participando da gestão do produto.<br><br>
-Sou um desenvolvedor entusiasta, sempre buscando transformar ideias em código. Meus repositórios são um reflexo dessa jornada, onde aplico e aprimoro os conhecimentos que adquiro em meus estudos e nos eventos da comunidade tech. Explore os projetos abaixo e, se gostar de algo, sua estrela ⭐ será um grande incentivo!
+Olá, sou o Marco! Sou Desenvolvedor Front-End e estudante de Engenharia da Computação no Centro Universitário UNA - Campus Betim. Atualmente, estou estagiando na Denso do Brasil, atuando em novos projetos e participando da gestão do produto.
+
+Além do desenvolvimento, venho expandindo minha atuação para a área de análise de dados e indicadores (KPIs), trabalhando com ferramentas como Excel, Power BI e automações para apoiar a tomada de decisão no ambiente industrial.
+
+Sou um desenvolvedor entusiasta, sempre buscando transformar ideias em código e dados em informação estratégica. Meus repositórios refletem essa jornada, onde aplico e aprimoro conhecimentos tanto em desenvolvimento quanto em análise e automação.
+
+Também sou maker e empreendedor no mercado de impressão 3D, desenvolvendo soluções personalizadas e produtos sob demanda, unindo tecnologia, criatividade e visão de negócio.
+
+Explore os projetos abaixo e, se gostar de algo, sua estrela ⭐ será um grande incentivo!
 <br>
 
-<h1 align="center">Estatísticas do GitHub</h1>
+<!-- <h1 align="center">Estatísticas do GitHub</h1>
 
 <div align="center">
  <div>
@@ -13,7 +20,7 @@ Sou um desenvolvedor entusiasta, sempre buscando transformar ideias em código. 
   <img height="300em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoTSF&langs_count=6&layout=compact&theme=tokyonight&hide_border=true"/>
  </div>
 </div>
-
+-->
 <br>
 
 <div align="center">
@@ -49,9 +56,18 @@ Sou um desenvolvedor entusiasta, sempre buscando transformar ideias em código. 
 <br>
 
 <div align="center">
+ <img align="center" alt="VBA" src="https://img.shields.io/badge/VBA-1D6F42?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+ <img align="center" alt="Macro" src="https://img.shields.io/badge/Macro-FFB000?style=for-the-badge&logo=microsoft-excel&logoColor=black">
+ <img align="center" alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+ <img align="center" alt="Power Query" src="https://img.shields.io/badge/Power%20Query-742774?style=for-the-badge">
+</div>
+
+<br>
+
+<div align="center">
   <h1>Projetos em Destaque</h1>
 
-  <table align="center"  height="400px">
+  <table align="center"  height="1050px">
     <tr>
       <td width="50%" valign="top">
         <h3>🕷️ Spider-Man Multiversos</h3>
@@ -127,7 +143,6 @@ Sou um desenvolvedor entusiasta, sempre buscando transformar ideias em código. 
   </table>
 </div>
 
-<br>
  
 <div align="center">
  <h1>Vamos nos conectar? ⚡</h1>
